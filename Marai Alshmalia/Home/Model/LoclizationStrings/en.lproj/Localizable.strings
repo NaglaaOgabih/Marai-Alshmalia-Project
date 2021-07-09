@@ -1,0 +1,75 @@
+/* 
+  Localizable.strings
+  Marai Alshmalia
+
+  Created by Naglaa Ogabih on 02/02/2021.
+  Copyright © 2021 NaglaaOgabih. All rights reserved.
+*/
+"User Name" = "User Name";
+"wrong" = "wrong";
+"SomethingWrong" = "Something wrong";
+"messageSend" = "Message Send Successfully";
+"EnterUserName" = "Enter User Name";
+"EnterPhoneNum" = "Enter Phone Number";
+"EnterEmail" = "Enter Your Email";
+"SaveSuccessfully" = "SaveSuccess fully";
+"EnterRightEmail" = "Enter Right Email";
+"EnterPassword" = "Enter Password";
+"ReEnterPass" = "Re Enter Password";
+"PassNotMatch" = "Password Not Matched";
+"agreeConditions" = "You must agree to the terms and conditions";
+"Main" = "Main";
+"My Orders" = "My Orders";
+"Cart" = "Cart";
+"Name" = "Name";
+"Email" = "Email";
+
+"Phone Number" = "Phone Number";
+"Password" = "Password";
+"Confirm Password" = "Confirm Password";
+"Email or Phone number" = "Email or Phone number";
+"New Password" = "New Password";
+"Confirm New Password" = "Confirm New Password";
+"Write your message" = "Write your message";
+"Small from 12 to 15 Kg" = "Small from 12 to 15 Kg";
+"Choose Salughter way" = "Choose Salughter way";
+"Choose Covering way" = "Choose Covering way";
+"Choose head type" = "Choose head type";
+"Write your notes here" = "Write your notes here";
+"Enter account user name" = "Enter account user name";
+"Enter bank number here" = "Enter bank number here";
+"Write transferred bank name here" = "Write transferred bank name here";
+"Select Image" = "Select Image";
+
+"Set quantity number" = "Set quantity number";
+"Choose Size" = "Choose Size";
+"Choose slaughtered way" = "Choose slaughtered way";
+"Choose covering way" = "Choose covering way";
+"Choose head type" ="Choose head type";
+"Choose charities" = "Choose charities";
+
+"Set received date" = "Set received date";
+"Set received time" = "Set received time";
+"Choose country" = "Choose country";
+"Choose neighborhood" = "Choose neighborhood";
+"Click on map to set location" = "Click on map to set location";
+
+"Discount code" = "Discount code";
+"Activation" = "Activation";
+"Total :" = "Total :";
+"Shipping fee :" = "Shipping fee :";
+"Product Name" = "Product Name";
+"Quantity" = "Quantity";
+"Size" = "Size";
+"Continue" = "Continue";
+"New Oderds" = "New Oderds";
+"Finished Orders" = "Finished Orders";
+"Order Number :" = "Order Number :";
+"Products number :" = "Products number :";
+"Order Date :" = "Order Date :";
+"Payment way :" = "Payment way :";
+"Products" = "Products";
+"Request recived" = "Request recived";
+"Request processed" = "Request processed";
+"Received" = "Received";
+"Product evaluation" = "Product evaluation";

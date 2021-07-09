@@ -1,0 +1,93 @@
+PODS:
+  - Alamofire (5.4.2)
+  - Cosmos (23.0.0)
+  - GoogleMaps (4.2.0):
+    - GoogleMaps/Maps (= 4.2.0)
+  - GoogleMaps/Base (4.2.0)
+  - GoogleMaps/Maps (4.2.0):
+    - GoogleMaps/Base
+  - GooglePlaces (4.2.0):
+    - GoogleMaps/Base (= 4.2.0)
+  - GSImageViewerController (1.6.3)
+  - iOSDropDown (0.3.4)
+  - IQKeyboardManagerSwift (6.5.6)
+  - KeychainSwift (19.0.0)
+  - Kingfisher (6.2.1)
+  - Localize-Swift (3.2.0):
+    - Localize-Swift/LocalizeSwiftCore (= 3.2.0)
+    - Localize-Swift/UIKit (= 3.2.0)
+  - Localize-Swift/LocalizeSwiftCore (3.2.0)
+  - Localize-Swift/UIKit (3.2.0):
+    - Localize-Swift/LocalizeSwiftCore
+  - NVActivityIndicatorView (5.1.1):
+    - NVActivityIndicatorView/Base (= 5.1.1)
+  - NVActivityIndicatorView/Base (5.1.1)
+  - NVActivityIndicatorView/Extended (5.1.1):
+    - NVActivityIndicatorView/Base
+  - PaddingLabel (1.2)
+  - SideMenu (6.5.0)
+  - SwifterSwift/UIKit (5.2.0)
+  - SwiftKeychainWrapper (4.0.1)
+  - SwiftMessages (9.0.2):
+    - SwiftMessages/App (= 9.0.2)
+  - SwiftMessages/App (9.0.2)
+
+DEPENDENCIES:
+  - Alamofire
+  - Cosmos (~> 23.0)
+  - GoogleMaps
+  - GooglePlaces
+  - GSImageViewerController
+  - iOSDropDown
+  - IQKeyboardManagerSwift
+  - KeychainSwift (~> 19.0)
+  - Kingfisher (~> 6.0)
+  - Localize-Swift (~> 3.2)
+  - NVActivityIndicatorView
+  - NVActivityIndicatorView/Extended
+  - PaddingLabel (= 1.2)
+  - SideMenu
+  - SwifterSwift/UIKit
+  - SwiftKeychainWrapper
+  - SwiftMessages
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Cosmos
+    - GoogleMaps
+    - GooglePlaces
+    - GSImageViewerController
+    - iOSDropDown
+    - IQKeyboardManagerSwift
+    - KeychainSwift
+    - Kingfisher
+    - Localize-Swift
+    - NVActivityIndicatorView
+    - PaddingLabel
+    - SideMenu
+    - SwifterSwift
+    - SwiftKeychainWrapper
+    - SwiftMessages
+
+SPEC CHECKSUMS:
+  Alamofire: bfbc4c2fe5909b1d94fb4ef2277c6b3727ef5dae
+  Cosmos: b5c6a9a637e28a061b54c8f8b1d8529d7d4db73f
+  GoogleMaps: eb03e327edfd70b06de1e6e321653f73712df7ad
+  GooglePlaces: 196a9dd88580dcb3f3df46f415057703d0d2a310
+  GSImageViewerController: 20a257d7e3dd9ee171c2dfea659992eba2761839
+  iOSDropDown: c10a761f9a00c3f1cc9d3bce43ae504628e2f692
+  IQKeyboardManagerSwift: c7df9d2deb356c04522f5c4b7b6e4ce4d8ed94fe
+  KeychainSwift: a06190cf933ad46b1e0abc3d77d29c06331715c7
+  Kingfisher: e71c6fac2aebb1262888cabc2cb13d313362a48f
+  Localize-Swift: 6f4475136bdb0d7b2882ea3d4ea919d70142b232
+  NVActivityIndicatorView: 1f6c5687f1171810aa27a3296814dc2d7dec3667
+  PaddingLabel: 21ab5282c780366018b04c30e3920c2f55a2fd14
+  SideMenu: f583187d21c5b1dd04c72002be544b555a2627a2
+  SwifterSwift: 334181863c416882d97b7a60c05054d9e4d799e2
+  SwiftKeychainWrapper: 807ba1d63c33a7d0613288512399cd1eda1e470c
+  SwiftMessages: 77b847d1405f99046ffbd0d856bc7d73e6892686
+
+PODFILE CHECKSUM: 8a66e258d738c67fcb280b40e4a3f56ae253b373
+
+COCOAPODS: 1.10.0

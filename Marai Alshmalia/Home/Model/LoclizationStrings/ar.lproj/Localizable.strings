@@ -1,0 +1,137 @@
+/* 
+  Localizable.strings
+  Marai Alshmalia
+
+  Created by Naglaa Ogabih on 02/02/2021.
+  Copyright © 2021 NaglaaOgabih. All rights reserved.
+*/
+
+"wrong" = "خطأ";
+"SomethingWrong" = "حدث خطأ ما";
+"messageSend" = "تم إرسال رسالتك";
+"EnterUserName" =  "أدخل اسم المستخدم";
+"EnterPhoneNum" = "أدخل رقم الجوال";
+"EnterEmail" = "أدخل البريد الإلكتروني الخاص بك";
+"SaveSuccessfully" = "تم الحفظ بنجاح";
+"EnterRightEmail" = "يجب إدخال بريد إلكتروني صحيح";
+"EnterPassword" = "أدخل كلمة السر";
+"ReEnterPass" = "أعد إدخال كلمة السر";
+"PassNotMatch" = "كلمة السر غير متطابقة";
+"agreeConditions" = "يجب الموافقة على الشروط والأحكام";
+
+"Terms And Conditions" = "الشروط والأحكام";
+"Sign Up" = "تسجيل جديد";
+"As a Guest" = "دخول كزائر";
+"Skip" = "تخطي";
+"Continue" = "إستمرار";
+"I read and agree to" = "قرأت وأوافق على";
+"Continue" = "إستمرار";
+"Already have account ?" = "لديك حساب بالفعل ؟";
+"Sign In" = "تسجيل الدخول";
+"Forget Password ?" = "نسيت كلمة المرور ؟";
+"Don't have account ?" = "ليس لديك حساب ؟";
+"Reset Password" = "إستعادة كلمة المرور";
+"Enter your phone number" = "أدخل رقم الهاتف";
+"Enter The Code" = "أدخل الكود";
+"Change Password" = "تغيير كلمة السر";
+"Didn't receive the message?" = "لم أستلم الرسالة ؟";
+"Send code" = "إرسال الكود";
+"Activate phone number" = "تفعيل رقم الهاتف";
+"View All" = "مشاهدة الكل";
+"Normal Request" = "طلب عادي";
+"Charity request" = "طلب صدقة";
+"Way To Recive" = "طريقة الإستلام";
+"Slaughtered" = "مذبوح";
+"Alive" = "حي";
+"Quantity" = "الكمية";
+"Size" = "الحجم";
+"Slaughter way" = "طريقة الذبح";
+"Covering way" = "طريقة التغليف";
+"Head type" = "نوع الرأس";
+"Amount of minced meat (per kilo)" = "كمية اللحم المفروم (بالكيلو)";
+"Notes" = "الملاحظات";
+"Charities" = "الجمعية";
+"Complete Request" = "إتمام الطلب";
+"Profile" = "الملف الشخصي";
+"Faviorate" = "المفضلة";
+"Offers" = "العروض";
+"Portfolio" = "المحفظة";
+"Language" = "اللغة";
+"Complaints and suggestions" = "الشكاوي والمقترحات";
+"Frequently questions" = "الأسئلة الشائعة";
+"About" = "عن التطبيق";
+"User Name" = "إسم المستخدم";
+"Email" = "البريد الإلكتروني";
+"Phone Number" = "رقم الهاتف";
+"Change Password" = "تغيير كلمة السر";
+"Email or Phone number" = "البريد الإلكتروني أو رقم الهاتف";
+"New Password" = "كلمة السر الجديدة";
+"Confirm New Password" = "تأكيد كلمة السر الجديدة";
+
+"Save Changes" = "حفظ التغييرات";
+"Show details" =  "عرض التفاصيل";
+"Delete" = "حذف";
+"Available Balance" = "الرصيد المتاح";
+"SR" = "ريال سعودي";
+"Send" = "إرسال";
+"Or through social media" = "أو عبر مواقع التواصل الإجتماعي";
+"Bank Account Number" = "رقم الحساب البنكي";
+"Account User Name" = "اسم صاحب الحساب";
+"Bank number" = "رقم المصرف";
+"Transferred Bank Name" = "اسم المصرف المحول منه";
+"Image of the transfer receipt" = "صورة إيصال التحويل";
+"Confirm" = "تأكيد";
+"Main" = "الرئيسية";
+"My Orders" = "طلباتي";
+"Cart" = "العربة";
+"Name" = "الإسم";
+"Email" = "البريد الإلكتروني";
+"Phone Number" =  "رقم الهاتف";
+"Password" = "كلمة السر";
+"Confirm Password" = "تأكيد كلمة السر";
+"Write your message" = "اكتب رسالتك هنا";
+
+"Small from 12 to 15 Kg" = "صغير من ١٢ لـ ١٥ كج";
+"Choose Salughter way" = "اختر طريقة الذبح";
+"Choose Covering way" = "اختر طريقة التغليف";
+"Choose head type" = "اختر نوع الرأس";
+"Write your notes here" = "اكتب ملاحظاتك هنا";
+
+"Enter account user name" = "اسم صاحب الحساب هنا";
+"Enter bank number here" = "أدخل رقم الحساب هنا";
+"Write transferred bank name here" = "أدخل اسم المصرف المحول منه هنا";
+"Select Image" = "اختر صورة";
+"9664323456789" = "٩٦٦٤٣٢٤٣٢٤٢٤٢";
+
+"Set quantity number" = "أدخل الكمية المطلوبة";
+"Choose Size" = "اختر الحجم المناسب";
+"Choose slaughtered way" = "اختر طريقة الذبح";
+"Choose covering way" = "اختر طريقة التغليف";
+"Choose head type" ="اختر نوع الرأس";
+"Choose charities" = "اختر الجمعية";
+
+"Set received date" = "حدد تاريح الاستلام";
+"Set received time" = "حدد وقت الإستلام";
+"Choose country" = "اختر البلد";
+"Choose neighborhood" = "اختر الحي";
+"Click on map to set location" = "اضغط على الخريطة لتحديد الموقع";
+
+"Discount code" = "كود الخصم";
+"Activation" = "تفعيل";
+"Total :" = "الإجمالي :";
+"Shipping fee :" = "رسوم الشحن :";
+"Product Name" = "اسم المنتج";
+"Quantity" = "الكمية";
+"Size" = "الحجم";
+"Continue" = "إستمرار";
+"New Oderds" = "طلب جديد";
+"Finished Orders" = "الطلبات المنتهية";
+"Order Number :" = "اسم المنتج :";
+"Products number :" = "رقم المنتج :";
+"Order Date :" = "تاريخ التسليم :";
+"Payment way :" = "طريقة الدفع :";
+"Products" = "المنتجات";
+"Request recived" = "تم استلام طلبك";
+"Request processed" = "جاري تجهيز طلبك";
+"Received" = "تم تسليمه";
+"Product evaluation" = "تقييم المنتج";

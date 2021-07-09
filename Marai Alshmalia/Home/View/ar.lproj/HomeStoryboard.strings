@@ -1,0 +1,264 @@
+
+/* Class = "UITabBarItem"; title = "الرئيسية"; ObjectID = "1Gp-H3-NFg"; */
+"1Gp-H3-NFg.title" = "الرئيسية";
+
+/* Class = "UIButton"; normalTitle = "عن التطبيق"; ObjectID = "1TO-nG-pOw"; */
+"1TO-nG-pOw.normalTitle" = "عن التطبيق";
+
+/* Class = "UILabel"; text = "الجمعية"; ObjectID = "2Di-Dj-sGe"; */
+"2Di-Dj-sGe.text" = "الجمعية";
+
+/* Class = "UILabel"; text = "ملاحظات"; ObjectID = "2tB-nl-BIm"; */
+"2tB-nl-BIm.text" = "ملاحظات";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "6PQ-lZ-rGP"; */
+"6PQ-lZ-rGP.normalTitle" = "+";
+
+/* Class = "UILabel"; text = "اسم المصرف المحول منه"; ObjectID = "7bB-RY-GyK"; */
+"7bB-RY-GyK.text" = "اسم المصرف المحول منه";
+
+/* Class = "UIButton"; normalTitle = "الشكاوي والمقترحات"; ObjectID = "80g-Y3-xdU"; */
+"80g-Y3-xdU.normalTitle" = "الشكاوي والمقترحات";
+
+/* Class = "UIButton"; normalTitle = "الأسئلة المكررة"; ObjectID = "8zB-A9-woQ"; */
+"8zB-A9-woQ.normalTitle" = "الأسئلة المكررة";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "9TA-Vs-oBt"; */
+"9TA-Vs-oBt.title" = " ";
+
+/* Class = "UITextField"; placeholder = "برجاء إدخال اسم صاحب الحساب"; ObjectID = "9Yn-jy-paJ"; */
+"9Yn-jy-paJ.placeholder" = "برجاء إدخال اسم صاحب الحساب";
+
+/* Class = "UILabel"; text = "نوع الرأس"; ObjectID = "9rE-f3-YYu"; */
+"9rE-f3-YYu.text" = "نوع الرأس";
+
+/* Class = "UILabel"; text = "محمود مرعي"; ObjectID = "AOX-zj-ksE"; */
+"AOX-zj-ksE.text" = "محمود مرعي";
+
+/* Class = "UIButton"; normalTitle = "-"; ObjectID = "BBZ-3D-76G"; */
+"BBZ-3D-76G.normalTitle" = "-";
+
+/* Class = "UIButton"; normalTitle = "طلب صدقة "; ObjectID = "Bs2-8I-tYv"; */
+"Bs2-8I-tYv.normalTitle" = "طلب صدقة ";
+
+/* Class = "UILabel"; text = "صورة إيصال التحويل"; ObjectID = "Ck7-92-BWD"; */
+"Ck7-92-BWD.text" = "صورة إيصال التحويل";
+
+/* Class = "UIButton"; normalTitle = "المفضلة"; ObjectID = "CuI-jg-AbD"; */
+"CuI-jg-AbD.normalTitle" = "المفضلة";
+
+/* Class = "UILabel"; text = "العربية"; ObjectID = "Dgk-Iz-diJ"; */
+"Dgk-Iz-diJ.text" = "العربية";
+
+/* Class = "UITextField"; placeholder = "اختر طريقة الذبح"; ObjectID = "FAm-Nf-2Rl"; */
+"FAm-Nf-2Rl.placeholder" = "اختر طريقة الذبح";
+
+/* Class = "UITabBarItem"; title = "طلباتي"; ObjectID = "Fir-cA-XhR"; */
+"Fir-cA-XhR.title" = "طلباتي";
+
+/* Class = "UIButton"; normalTitle = "إتمام الطلب"; ObjectID = "FmO-5S-6jf"; */
+"FmO-5S-6jf.normalTitle" = "إتمام الطلب";
+
+/* Class = "UILabel"; text = "رقم الحساب البنكي"; ObjectID = "Fs6-7e-fz1"; */
+"Fs6-7e-fz1.text" = "رقم الحساب البنكي";
+
+/* Class = "UILabel"; text = "طريقة الإستلام"; ObjectID = "G5J-qW-TDU"; */
+"G5J-qW-TDU.text" = "طريقة الإستلام";
+
+/* Class = "UITextField"; placeholder = "الإسم"; ObjectID = "H4f-5T-tP7"; */
+"H4f-5T-tP7.placeholder" = "الإسم";
+
+/* Class = "UILabel"; text = "أو عبر التواصل الإجتماعي"; ObjectID = "Iwl-3R-Kr5"; */
+"Iwl-3R-Kr5.text" = "أو عبر التواصل الإجتماعي";
+
+/* Class = "UITextField"; placeholder = "برجاء إرفاق صورة إيصال التحويل"; ObjectID = "JIF-Bv-YdN"; */
+"JIF-Bv-YdN.placeholder" = "برجاء إرفاق صورة إيصال التحويل";
+
+/* Class = "UITextField"; placeholder = "اختر طريقة التغليف"; ObjectID = "JfE-CP-kWs"; */
+"JfE-CP-kWs.placeholder" = "اختر طريقة التغليف";
+
+/* Class = "UILabel"; text = "ـــــــــــــــــــــــــــــــــــــــــــــــــــــــ"; ObjectID = "LEa-1U-zip"; */
+"LEa-1U-zip.text" = "ـــــــــــــــــــــــــــــــــــــــــــــــــــــــ";
+
+/* Class = "UILabel"; text = "(4)"; ObjectID = "M6u-mV-LTa"; */
+"M6u-mV-LTa.text" = "(4)";
+
+/* Class = "UILabel"; text = "إبتداء من 500 ريال سعودي"; ObjectID = "NUJ-nP-165"; */
+"NUJ-nP-165.text" = "إبتداء من 500 ريال سعودي";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "NwH-hM-s9I"; */
+"NwH-hM-s9I.text" = "0";
+
+/* Class = "UILabel"; text = "طريقة التغليف"; ObjectID = "Paj-nX-nwh"; */
+"Paj-nX-nwh.text" = "طريقة التغليف";
+
+/* Class = "UILabel"; text = "(3)"; ObjectID = "RcO-DJ-10R"; */
+"RcO-DJ-10R.text" = "(3)";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "S9o-uZ-KnF"; */
+"S9o-uZ-KnF.title" = "Item";
+
+/* Class = "UIButton"; normalTitle = "إرسال"; ObjectID = "SL5-le-MII"; */
+"SL5-le-MII.normalTitle" = "إرسال";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "VFz-Yc-1ml"; */
+"VFz-Yc-1ml.normalTitle" = "+";
+
+/* Class = "UIButton"; normalTitle = "إتمام الطلب"; ObjectID = "VV9-wF-g4M"; */
+"VV9-wF-g4M.normalTitle" = "إتمام الطلب";
+
+/* Class = "UILabel"; text = "مذبوح"; ObjectID = "Vxu-lo-x0R"; */
+"Vxu-lo-x0R.text" = "مذبوح";
+
+/* Class = "UILabel"; text = "طريقة الذبح"; ObjectID = "WH3-b2-Q4S"; */
+"WH3-b2-Q4S.text" = "طريقة الذبح";
+
+/* Class = "UILabel"; text = "هذا النص هو مثال للنص ممكن أن يستبدل في نفس المساحة"; ObjectID = "XnR-3i-GpJ"; */
+"XnR-3i-GpJ.text" = "هذا النص هو مثال للنص ممكن أن يستبدل في نفس المساحة";
+
+/* Class = "UITextField"; placeholder = "اكتب ملاحظاتك هنا"; ObjectID = "YI1-LD-nVP"; */
+"YI1-LD-nVP.placeholder" = "اكتب ملاحظاتك هنا";
+
+/* Class = "UILabel"; text = "الحجم"; ObjectID = "YjT-gw-xaT"; */
+"YjT-gw-xaT.text" = "الحجم";
+
+/* Class = "UIButton"; normalTitle = "حذف"; ObjectID = "ZW8-Vz-GyN"; */
+"ZW8-Vz-GyN.normalTitle" = "حذف";
+
+/* Class = "UITextField"; placeholder = "صغير من 12 إلى 15 كيلو"; ObjectID = "a1g-R1-mU0"; */
+"a1g-R1-mU0.placeholder" = "صغير من 12 إلى 15 كيلو";
+
+/* Class = "UITabBarItem"; title = "العربة"; ObjectID = "aj2-4Y-3Eh"; */
+"aj2-4Y-3Eh.title" = "العربة";
+
+/* Class = "UILabel"; text = "نعيمي"; ObjectID = "anH-r4-9bK"; */
+"anH-r4-9bK.text" = "نعيمي";
+
+/* Class = "UILabel"; text = "هذا النص هو مثال للنص يمكن أن يستبدل في نفس المساحة لقد تم توليد"; ObjectID = "b5u-Xm-a7p"; */
+"b5u-Xm-a7p.text" = "هذا النص هو مثال للنص يمكن أن يستبدل في نفس المساحة لقد تم توليد";
+
+/* Class = "UIButton"; normalTitle = "اللغة"; ObjectID = "c5z-SZ-0QA"; */
+"c5z-SZ-0QA.normalTitle" = "اللغة";
+
+/* Class = "UILabel"; text = "رقم الجوال"; ObjectID = "cy2-AP-0fv"; */
+"cy2-AP-0fv.text" = "رقم الجوال";
+
+/* Class = "UIButton"; normalTitle = "حفظ التعديلات"; ObjectID = "dzZ-az-Pv2"; */
+"dzZ-az-Pv2.normalTitle" = "حفظ التعديلات";
+
+/* Class = "UILabel"; text = "البريد الإلكتروني"; ObjectID = "eMI-7Y-YQV"; */
+"eMI-7Y-YQV.text" = "البريد الإلكتروني";
+
+/* Class = "UITextField"; placeholder = "اختر نوع الرأس"; ObjectID = "eNX-S1-bR5"; */
+"eNX-S1-bR5.placeholder" = "اختر نوع الرأس";
+
+/* Class = "UIButton"; normalTitle = "تغيير كلمة المرور"; ObjectID = "eaZ-Sq-0B5"; */
+"eaZ-Sq-0B5.normalTitle" = "تغيير كلمة المرور";
+
+/* Class = "UILabel"; text = "87765743548686786786"; ObjectID = "ekd-z2-Np6"; */
+"ekd-z2-Np6.text" = "87765743548686786786";
+
+/* Class = "UILabel"; text = "رقم اسم المصرف"; ObjectID = "fb7-Yc-In6"; */
+"fb7-Yc-In6.text" = "رقم اسم المصرف";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "fdB-2g-3yj"; */
+"fdB-2g-3yj.placeholder" = "Name";
+
+/* Class = "UITextField"; placeholder = "9664323456789"; ObjectID = "hFv-qZ-plX"; */
+"hFv-qZ-plX.placeholder" = "9664323456789";
+
+/* Class = "UILabel"; text = "خروف نعيمي"; ObjectID = "idE-JV-HeF"; */
+"idE-JV-HeF.text" = "خروف نعيمي";
+
+/* Class = "UILabel"; text = "إبتداء من 500 ريال سعودي"; ObjectID = "iu0-9i-VUF"; */
+"iu0-9i-VUF.text" = "إبتداء من 500 ريال سعودي";
+
+/* Class = "UILabel"; text = "English"; ObjectID = "jDf-HJ-Y4I"; */
+"jDf-HJ-Y4I.text" = "English";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "jK2-70-jlJ"; */
+"jK2-70-jlJ.title" = " ";
+
+/* Class = "UITextField"; placeholder = "اكتب رسالتك"; ObjectID = "kTs-AC-wW1"; */
+"kTs-AC-wW1.placeholder" = "اكتب رسالتك";
+
+/* Class = "UILabel"; text = "الكمية"; ObjectID = "lNz-U5-exy"; */
+"lNz-U5-exy.text" = "الكمية";
+
+/* Class = "UILabel"; text = "الرصيد المتاح"; ObjectID = "lqx-4b-pra"; */
+"lqx-4b-pra.text" = "الرصيد المتاح";
+
+/* Class = "UILabel"; text = "كمية اللحم المفروم (بالكيلو)"; ObjectID = "mPW-Mq-8FK"; */
+"mPW-Mq-8FK.text" = "كمية اللحم المفروم (بالكيلو)";
+
+/* Class = "UILabel"; text = "اسم صاحب الحساب"; ObjectID = "mhO-23-H6u"; */
+"mhO-23-H6u.text" = "اسم صاحب الحساب";
+
+/* Class = "UILabel"; text = "الإسم"; ObjectID = "nsJ-R0-UL1"; */
+"nsJ-R0-UL1.text" = "الإسم";
+
+/* Class = "UILabel"; text = "خروف نعيمي"; ObjectID = "oQq-XD-s8K"; */
+"oQq-XD-s8K.text" = "خروف نعيمي";
+
+/* Class = "UITextField"; placeholder = "برجاء إدخال اسم المصرف المحول منه"; ObjectID = "oab-OC-Zyp"; */
+"oab-OC-Zyp.placeholder" = "برجاء إدخال اسم المصرف المحول منه";
+
+/* Class = "UIButton"; normalTitle = "العروض"; ObjectID = "qKh-L4-IBp"; */
+"qKh-L4-IBp.normalTitle" = "العروض";
+
+/* Class = "UIButton"; normalTitle = "عرض التفاصيل"; ObjectID = "qU0-E7-koa"; */
+"qU0-E7-koa.normalTitle" = "عرض التفاصيل";
+
+/* Class = "UIButton"; normalTitle = "الملف الشخصي"; ObjectID = "qfP-8I-8hA"; */
+"qfP-8I-8hA.normalTitle" = "الملف الشخصي";
+
+/* Class = "UILabel"; text = "خروف نعيمي"; ObjectID = "r5i-tO-xQz"; */
+"r5i-tO-xQz.text" = "خروف نعيمي";
+
+/* Class = "UIButton"; normalTitle = "تأكيد"; ObjectID = "rOv-kZ-VuY"; */
+"rOv-kZ-VuY.normalTitle" = "تأكيد";
+
+/* Class = "UILabel"; text = "س: هذا النص هو مثال للنص ؟"; ObjectID = "rSu-aR-7OA"; */
+"rSu-aR-7OA.text" = "س: هذا النص هو مثال للنص ؟";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "rfF-Kk-96a"; */
+"rfF-Kk-96a.text" = "0";
+
+/* Class = "UITextField"; placeholder = "Name@example.com"; ObjectID = "ruU-qK-BgN"; */
+"ruU-qK-BgN.placeholder" = "Name@example.com";
+
+/* Class = "UIButton"; normalTitle = "طلب عادي "; ObjectID = "rxN-4q-rrQ"; */
+"rxN-4q-rrQ.normalTitle" = "طلب عادي ";
+
+/* Class = "UILabel"; text = "هذا النص هو مثال للنص يمكن أن يستبدل في نفس المساحة لقد تم توليد"; ObjectID = "tcv-1e-Y0y"; */
+"tcv-1e-Y0y.text" = "هذا النص هو مثال للنص يمكن أن يستبدل في نفس المساحة لقد تم توليد";
+
+/* Class = "UIButton"; normalTitle = "المحفظة"; ObjectID = "u6G-Yb-gTh"; */
+"u6G-Yb-gTh.normalTitle" = "المحفظة";
+
+/* Class = "UIButton"; normalTitle = "-"; ObjectID = "uhe-wC-xQ3"; */
+"uhe-wC-xQ3.normalTitle" = "-";
+
+/* Class = "UIButton"; normalTitle = "الشروط والأحكام"; ObjectID = "w2E-B2-5cz"; */
+"w2E-B2-5cz.normalTitle" = "الشروط والأحكام";
+
+/* Class = "UITextField"; placeholder = "البريد"; ObjectID = "wQJ-Cs-abr"; */
+"wQJ-Cs-abr.placeholder" = "البريد";
+
+/* Class = "UITextField"; placeholder = "برجاء إدخال اسم المصرف"; ObjectID = "we7-M3-Ykb"; */
+"we7-M3-Ykb.placeholder" = "برجاء إدخال اسم المصرف";
+
+/* Class = "UILabel"; text = "(3)"; ObjectID = "wvh-Tj-m4M"; */
+"wvh-Tj-m4M.text" = "(3)";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "yNd-uN-K6b"; */
+"yNd-uN-K6b.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "ريال سعودي"; ObjectID = "ylq-cX-T6o"; */
+"ylq-cX-T6o.text" = "ريال سعودي";
+
+/* Class = "UILabel"; text = "هذا النص هو مثال للنص يمكن أن يستبدل في نفس المساحةهذا النص هو مثال للنص يمكن أن يستبدل في نفس المساحةهذا النص هو مثال للنص يمكن أن يستبدل في نفس المساحةهذا النص هو مثال للنص يمكن أن يستبدل في نفس المساحةهذا النص هو مثال للنص يمكن أن يستبدل في نفس المساحةهذا النص هو مثال للنص يمكن أن يستبدل في نفس المساحةهذا النص هو مثال للنص يمكن أن يستبدل في نفس يمكن أن يستبدل في نفس المساحةهذا النص هو مثال للنص يمكن أن يستبدل في نفس المساحة"; ObjectID = "yyf-uf-OXW"; */
+"yyf-uf-OXW.text" = "هذا النص هو مثال للنص يمكن أن يستبدل في نفس المساحةهذا النص هو مثال للنص يمكن أن يستبدل في نفس المساحةهذا النص هو مثال للنص يمكن أن يستبدل في نفس المساحةهذا النص هو مثال للنص يمكن أن يستبدل في نفس المساحةهذا النص هو مثال للنص يمكن أن يستبدل في نفس المساحةهذا النص هو مثال للنص يمكن أن يستبدل في نفس المساحةهذا النص هو مثال للنص يمكن أن يستبدل في نفس يمكن أن يستبدل في نفس المساحةهذا النص هو مثال للنص يمكن أن يستبدل في نفس المساحة";
+
+/* Class = "UILabel"; text = "حي"; ObjectID = "zPZ-Lg-HBr"; */
+"zPZ-Lg-HBr.text" = "حي";

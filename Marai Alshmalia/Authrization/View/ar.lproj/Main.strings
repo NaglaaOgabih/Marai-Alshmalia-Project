@@ -1,0 +1,138 @@
+
+/* Class = "UITextField"; placeholder = "البريد الإلكتروني"; ObjectID = "0Do-JV-Nt0"; */
+"0Do-JV-Nt0.placeholder" = "البريد الإلكتروني";
+
+/* Class = "UITextField"; placeholder = "البريد الإلكتروني أو رقم الجوال"; ObjectID = "1Tx-QO-IjN"; */
+"1Tx-QO-IjN.placeholder" = "البريد الإلكتروني أو رقم الجوال";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "4NE-Es-niw"; */
+"4NE-Es-niw.title" = " ";
+
+/* Class = "UILabel"; text = "تفعيل رقم الجوال"; ObjectID = "5b1-O9-yLP"; */
+"5b1-O9-yLP.text" = "تفعيل رقم الجوال";
+
+/* Class = "UILabel"; text = "لديك حساب بالفعل ؟"; ObjectID = "5uY-uc-GXk"; */
+"5uY-uc-GXk.text" = "لديك حساب بالفعل ؟";
+
+/* Class = "UIButton"; normalTitle = "دخول كزائر"; ObjectID = "65R-78-l2N"; */
+"65R-78-l2N.normalTitle" = "دخول كزائر";
+
+/* Class = "UITextField"; placeholder = "رقم الجوال"; ObjectID = "690-iL-xkB"; */
+"690-iL-xkB.placeholder" = "رقم الجوال";
+
+/* Class = "UIButton"; normalTitle = "تسجيل"; ObjectID = "7K1-zT-Kmo"; */
+"7K1-zT-Kmo.normalTitle" = "تسجيل";
+
+/* Class = "UITextField"; placeholder = "كلمة المرور"; ObjectID = "8X4-i3-DDq"; */
+"8X4-i3-DDq.placeholder" = "كلمة المرور";
+
+/* Class = "UILabel"; text = " أدخل الكود هنا"; ObjectID = "A9x-sG-uyS"; */
+"A9x-sG-uyS.text" = " أدخل الكود هنا";
+
+/* Class = "UILabel"; text = "هذا النص هو مثال للنص يمكن أن يستبدل في نفس المساحة لقد تم توليد"; ObjectID = "B2P-E3-OL6"; */
+"B2P-E3-OL6.text" = "هذا النص هو مثال للنص يمكن أن يستبدل في نفس المساحة لقد تم توليد";
+
+/* Class = "UILabel"; text = "قرأت وأوافق على"; ObjectID = "CT8-YL-8Es"; */
+"CT8-YL-8Es.text" = "قرأت وأوافق على";
+
+/* Class = "UILabel"; text = "لم أستلم الرسالة ؟"; ObjectID = "DVL-7x-x6J"; */
+"DVL-7x-x6J.text" = "لم أستلم الرسالة ؟";
+
+/* Class = "UILabel"; text = "هذا النص هو مثال للنص يمكن أن يستبدل في نفس المساحة لقد تم توليد"; ObjectID = "Dh9-fJ-UXG"; */
+"Dh9-fJ-UXG.text" = "هذا النص هو مثال للنص يمكن أن يستبدل في نفس المساحة لقد تم توليد";
+
+/* Class = "UIButton"; normalTitle = "إستمرار"; ObjectID = "ECR-ce-4tx"; */
+"ECR-ce-4tx.normalTitle" = "إستمرار";
+
+/* Class = "UIButton"; normalTitle = "تأكيد"; ObjectID = "Etp-Ge-T0g"; */
+"Etp-Ge-T0g.normalTitle" = "تأكيد";
+
+/* Class = "UITextField"; placeholder = "تأكيد كلمة المرور"; ObjectID = "HA2-mu-S09"; */
+"HA2-mu-S09.placeholder" = "تأكيد كلمة المرور";
+
+/* Class = "UILabel"; text = "تسجيل دخول"; ObjectID = "HrT-nG-Ytv"; */
+"HrT-nG-Ytv.text" = "تسجيل دخول";
+
+/* Class = "UILabel"; text = " أدخل الكود هنا"; ObjectID = "Ixq-6U-TcE"; */
+"Ixq-6U-TcE.text" = " أدخل الكود هنا";
+
+/* Class = "UITextField"; placeholder = "تأكيد كلمة المرور"; ObjectID = "Kcm-Yl-bWH"; */
+"Kcm-Yl-bWH.placeholder" = "تأكيد كلمة المرور";
+
+/* Class = "UILabel"; text = "ليس لديك حساب ؟"; ObjectID = "Mp1-Fo-kXF"; */
+"Mp1-Fo-kXF.text" = "ليس لديك حساب ؟";
+
+/* Class = "UILabel"; text = "إستعادة كلمة المرور"; ObjectID = "QT8-Sm-B4D"; */
+"QT8-Sm-B4D.text" = "إستعادة كلمة المرور";
+
+/* Class = "UILabel"; text = "هذا النص هو مثال للنص يمكن أن يستبدل في نفس المساحة لقد تم توليد"; ObjectID = "QUH-fc-1Ud"; */
+"QUH-fc-1Ud.text" = "هذا النص هو مثال للنص يمكن أن يستبدل في نفس المساحة لقد تم توليد";
+
+/* Class = "UILabel"; text = "هذا النص هو مثال للنص يمكن أن يستبدل في نفس المساحة لقد تم توليد"; ObjectID = "Rcx-7o-JNn"; */
+"Rcx-7o-JNn.text" = "هذا النص هو مثال للنص يمكن أن يستبدل في نفس المساحة لقد تم توليد";
+
+/* Class = "UILabel"; text = "إستعادة كلمة المرور"; ObjectID = "SMB-Fn-QDC"; */
+"SMB-Fn-QDC.text" = "إستعادة كلمة المرور";
+
+/* Class = "UITextField"; placeholder = "كلمة المرور الجديدة"; ObjectID = "X2g-NT-loP"; */
+"X2g-NT-loP.placeholder" = "كلمة المرور الجديدة";
+
+/* Class = "UITextField"; placeholder = "كلمة المرور"; ObjectID = "XR9-ic-LEW"; */
+"XR9-ic-LEW.placeholder" = "كلمة المرور";
+
+/* Class = "UITextField"; placeholder = "كلمة المرور الجديدة"; ObjectID = "XSv-Io-zYL"; */
+"XSv-Io-zYL.placeholder" = "كلمة المرور الجديدة";
+
+/* Class = "UIButton"; normalTitle = "إستمرار"; ObjectID = "Zeb-Em-lfq"; */
+"Zeb-Em-lfq.normalTitle" = "إستمرار";
+
+/* Class = "UILabel"; text = "تسجيل جديد"; ObjectID = "a2L-Z7-YC7"; */
+"a2L-Z7-YC7.text" = "تسجيل جديد";
+
+/* Class = "UITextField"; placeholder = "0551234567"; ObjectID = "a70-OB-x9w"; */
+"a70-OB-x9w.placeholder" = "0551234567";
+
+/* Class = "UILabel"; text = "أدخل رقم الجوال الخاص بك"; ObjectID = "bTy-IM-EjR"; */
+"bTy-IM-EjR.text" = "أدخل رقم الجوال الخاص بك";
+
+/* Class = "UIButton"; normalTitle = "تسجيل الدخول"; ObjectID = "biP-F3-0or"; */
+"biP-F3-0or.normalTitle" = "تسجيل الدخول";
+
+/* Class = "UILabel"; text = "لم أستلم الرسالة ؟"; ObjectID = "biZ-Wl-ail"; */
+"biZ-Wl-ail.text" = "لم أستلم الرسالة ؟";
+
+/* Class = "UILabel"; text = "هذا النص هو مثال للنص يمكن أن يستبدل في نفس المساحة لقد تم توليد"; ObjectID = "cGR-x9-2eC"; */
+"cGR-x9-2eC.text" = "هذا النص هو مثال للنص يمكن أن يستبدل في نفس المساحة لقد تم توليد";
+
+/* Class = "UILabel"; text = "هذا النص هو مثال للنص يمكن أن يستبدل في نفس المساحة لقد تم توليد"; ObjectID = "cMP-kJ-h1o"; */
+"cMP-kJ-h1o.text" = "هذا النص هو مثال للنص يمكن أن يستبدل في نفس المساحة لقد تم توليد";
+
+/* Class = "UILabel"; text = "إستعادة كلمة المرور"; ObjectID = "fGo-zY-gXc"; */
+"fGo-zY-gXc.text" = "إستعادة كلمة المرور";
+
+/* Class = "UILabel"; text = "..."; ObjectID = "h9O-g1-t38"; */
+"h9O-g1-t38.text" = "...";
+
+/* Class = "UIButton"; normalTitle = "إستمرار"; ObjectID = "k9e-CG-wnV"; */
+"k9e-CG-wnV.normalTitle" = "إستمرار";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "qKi-AB-kUQ"; */
+"qKi-AB-kUQ.title" = " ";
+
+/* Class = "UIButton"; normalTitle = "إستمرار"; ObjectID = "quY-UO-Kx6"; */
+"quY-UO-Kx6.normalTitle" = "إستمرار";
+
+/* Class = "UIButton"; normalTitle = "تخطي"; ObjectID = "rIs-jQ-zgc"; */
+"rIs-jQ-zgc.normalTitle" = "تخطي";
+
+/* Class = "UITextField"; placeholder = "تأكيد كلمة المرور"; ObjectID = "sJx-nh-BiC"; */
+"sJx-nh-BiC.placeholder" = "تأكيد كلمة المرور";
+
+/* Class = "UIButton"; normalTitle = "إستمرار"; ObjectID = "vAO-Xc-YcU"; */
+"vAO-Xc-YcU.normalTitle" = "إستمرار";
+
+/* Class = "UILabel"; text = "تغيير كلمة المرور"; ObjectID = "yXx-RB-vSM"; */
+"yXx-RB-vSM.text" = "تغيير كلمة المرور";
+
+/* Class = "UITextField"; placeholder = "اسم المستخدم"; ObjectID = "z5a-v1-gcz"; */
+"z5a-v1-gcz.placeholder" = "اسم المستخدم";
